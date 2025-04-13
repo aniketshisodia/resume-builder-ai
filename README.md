@@ -1,7 +1,7 @@
 # Resumify - AI-Powered Resume Builder ✨
 
-![Resumify Banner](![Screenshot (31)](https://github.com/user-attachments/assets/a21277a3-2a72-436f-8c42-b86522f33ed0)
-)
+![Screenshot (31)](https://github.com/user-attachments/assets/2e8ccadc-30d5-46ac-b282-ed4c381c4de8)
+![Screenshot (32)](https://github.com/user-attachments/assets/d1db31ad-08ea-4cd4-8e0b-151d738cd9e1)
 
 Resumify is a modern, sleek resume builder that helps you create professional resumes effortlessly. With its AI-powered suggestions and beautiful templates, you can craft the perfect resume to land your dream job.
 
